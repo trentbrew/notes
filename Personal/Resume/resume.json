@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Trenton Brew",
+    "title": "Frontend Engineer",
+    "contact": {
+      "portfolio": "https://trentbrew.com",
+      "github": "https://github.com/trentbrew",
+      "email": "hello@trentbrew.com",
+      "phone": "+1 636 515 1293"
+    },
+    "profile": "I'm a software engineer with a background in graphic design & UX. In my spare time I enjoy drawing, snowboarding, gaming, and Muay Thai.",
+    "expertise": ["Vue", "Nuxt", "Tailwind CSS", "Flutter", "Figma"],
+    "experience": [
+      {
+        "company_name": "Gumbo Media",
+        "role": "Design Engineer",
+        "location": "Remote",
+        "duration": "May 2023 - Present",
+        "Skills": [
+          "Webflow",
+          "Figma",
+          "Framer",
+          "Wix",
+          "Squarespace",
+          "WordPress",
+          "Stripe",
+          "Canva",
+          "Adobe Suite",
+          "Notion"
+        ],
+        "description": "At Gumbo Media I work closely with the founder to lead design projects, building brands, products, websites, and marketing assets for clients."
+      },
+      {
+        "company_name": "Turtle Labs LLC",
+        "role": "Freelance Product Design",
+        "location": "Chicago, IL",
+        "duration": "Aug 2018 - Present",
+        "skills": [
+          "Vue",
+          "SvelteKit",
+          "DaisyUI",
+          "Flutter",
+          "Firebase",
+          "Webflow",
+          "Figma",
+          "Adobe Suite",
+          "Notion"
+        ],
+        "description": "I'm a freelance designer and developer. I've worked with a variety of clients to build brands, websites, web apps, and mobile apps. Through freelancing I've learned how to work with clients, manage projects, collaborate with other designers, and deliver high quality work."
+      },
+      {
+        "company_name": "64 Robots",
+        "role": "Frontend Engineer",
+        "location": "Remote",
+        "duration": "Aug 2022 - Nov 2022",
+        "skills": [
+          "Nuxt 3",
+          "Vue 3",
+          "Tailwind CSS",
+          "Accessibility",
+          "Pinia",
+          "Cypress",
+          "Laravel",
+          "Twill",
+          "Figma"
+        ],
+        "description": "At 64 Robots I worked on a custom website & CMS for a local client. I collaborated closely with the design team to build pixel-accurate & accessible frontend components, animations, and interactions."
+      },
+      {
+        "company_name": "TechOne Plus",
+        "role": "Frontend Developer",
+        "location": "Remote",
+        "duration": "Mar 2022 - Jul 2022",
+        "skills": ["Vue 3", "Tailwind CSS", "Pinia", "Figma"],
+        "description": "At TechOne Plus I wore several hats, working between graphic design, UX/UI, API documentation, and frontend development. I worked across a variety of projects ranging from small businesses to large corporations."
+      },
+      {
+        "company_name": "Lofty Labs",
+        "role": "Software Engineer",
+        "location": "Remote",
+        "duration": "Mar 2021 - Jan 2022",
+        "skills": ["Vue 2", "SCSS", "Mapbox", "WebGL", "Django", "Docker"],
+        "description": "At Lofty I worked with Vue, Mapbox, and DeckGL to draw, store, and calculate the area of bridge geometries, discover defects based on IR drone footage, and translate UI mock-ups into reusable components. I worked with Django REST Framework on the backend to build microservices for user invites & authentication flows."
+      },
+      {
+        "company_name": "HBR Consulting",
+        "role": "Web Developer",
+        "location": "Chicago, IL",
+        "duration": "Mar 2020 - Apr 2021",
+        "skills": ["Vue 2", "SCSS", "Node", "Firebase", "SharePoint", "Figma"],
+        "description": "At HBR I worked with Vue and Firebase to lead the development of an internal onboarding tool for new hires and interns. I worked with Firebase to authenticate users and manage their data. I also worked with Node and Firebase Admin API to automate workflows and streamline development."
+      }
+    ]
+  }
+]

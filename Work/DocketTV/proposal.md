@@ -1,0 +1,222 @@
+Title: Docket.tv Manifesto
+Prepared by: Trenton Brew
+Prepared for: Matthew Manning
+Created: 2024-04-01
+Last edited: 2024-05-26
+
+# Introduction
+
+---
+
+The purpose of this project proposal is to articulate the vision and objectives of a web app aiming to revolutionize the way broadcasters connect with their audience through a user-friendly, customizable TV Guide CMS. This document serves as a comprehensive blueprint, detailing the strategic approach, expected outcomes, and the organizational structure required to achieve our ambitious goal of enhancing the broadcasting experience for both content creators and viewers alike.
+
+# Background and Context
+
+---
+
+In broadcasting, a "docket" is a detailed schedule of programming, guiding the sequence of shows, commercials, and events for smooth broadcast flow. It acts as a roadmap, ensuring timely content delivery.
+
+[Docket.tv](http://docket.tv/), mirroring this concept, offers broadcasters a customizable, easy-to-use TV Guide CMS for scheduling and managing content. This modern platform enhances content management and viewer engagement, aiming to transform the broadcasting landscape into a more accessible, engaging, and community-centric experience.
+
+The primary objective of [Docket.tv](http://docket.tv/) is to revolutionize the way broadcasters connect with their audience by providing a user-friendly, customizable TV Guide CMS. This initiative aims to bridge the gap between broadcasters and viewers, enhancing the overall viewing experience through a web-based platform that is both accessible and engaging.
+
+The background of this project is rooted in the challenges faced by public access TV organizations in managing and distributing content in the digital age. [Docket.tv](http://docket.tv/) seeks to address these challenges by offering a solution that empowers broadcasters, engages viewers, and enriches community dialogue. By leveraging technology to streamline show management and scheduling, [Docket.tv](http://docket.tv/) positions itself as a modern platform that caters to the needs of both content creators and their audiences.
+
+In essence, [Docket.tv](http://docket.tv/) embodies the concept of "Twitch for public access TV," combining the community focus of public access content with the technological advantages of modern streaming services. This innovative approach not only addresses existing operational challenges but also opens up new avenues for community engagement and local storytelling.
+
+# Methodology and Approach
+
+---
+
+To achieve the project's objectives, our methodology integrates insights from the operational challenges and technological advancements outlined in the master document. Our approach is structured around three core pillars: Streamlining Operations, Empowering Creators, and Enhancing Viewer Experience.
+
+## Streamlining Operations
+
+Drawing from the operational inconsistencies highlighted, we propose the development of a unified platform, [Docket.tv](http://docket.tv/), to streamline content management and scheduling processes. This platform will serve as a central hub for broadcasters, enabling efficient management of TV guides, show schedules, and content submissions. Integration with cablecast APIs will ensure real-time updates and seamless operation, addressing the current challenges faced by organizations like Speak MPLS.
+
+## Empowering Creators
+
+Reflecting on the empowerment of creators akin to platforms like Twitch and YouTube, [Docket.tv](http://docket.tv/) will provide tools for content creators to directly manage their shows, episodes, and schedules. This initiative aims to democratize content creation, offering local voices a platform to share their narratives. By simplifying the content submission process and providing real-time analytics, creators can better engage with their audience and refine their content strategy.
+
+## Enhancing Viewer Experience
+
+To significantly enhance the viewer experience, [Docket.tv](http://docket.tv/) will offer a user-friendly, configurable TV guide, mirroring successful aspects of live streaming platforms. Interactive features such as live chat, polls, and viewer feedback options will be incorporated to foster community engagement. Accessibility features, including closed captioning and audio descriptions, will ensure the platform is inclusive to all viewers.
+
+### Implementation Timeline
+
+1. **Phase 1 - Platform Development:** Focus on the development of the core functionalities of [Docket.tv](http://docket.tv/), including the integration with cablecast APIs and the creation of a user-friendly interface for both broadcasters and viewers.
+2. **Phase 2 - Creator Tools Rollout:** Development and deployment of content management tools for creators, including analytics and direct scheduling capabilities.
+3. **Phase 3 - Viewer Engagement Features:** Implementation of interactive and accessibility features to enhance the viewer experience.
+4. **Phase 4 - Pilot and Feedback:** Launch a pilot version of [Docket.tv](http://docket.tv/) with select broadcasters and creators to gather feedback and make necessary adjustments.
+5. **Phase 5 - Full Launch:** Official launch of [Docket.tv](http://docket.tv/), incorporating feedback from the pilot phase to ensure a robust platform that meets the needs of broadcasters, creators, and viewers.
+
+By adhering to this methodology and approach, we aim to address the current challenges faced by public access TV and digital content platforms, creating a more connected, engaging, and inclusive broadcasting ecosystem.
+
+# Resources and Budget
+
+---
+
+The development of [Docket.tv](http://docket.tv/) is a strategic expansion aimed at addressing the broader needs identified through our work with Speak MPLS. This initiative will leverage the insights and infrastructure developed for Speak MPLS, applying them to a wider market of broadcasting organizations and content creators. The project's scope for Speak MPLS remains unchanged, with allocated pay and hours dedicated to this client maintained as initially agreed upon. Speak MPLS will serve as an invaluable test case, providing critical feedback and validation for [Docket.tv](http://docket.tv/)'s market fit as the first user of the MVP.
+
+## Budget Overview
+
+The budget for [Docket.tv](http://docket.tv/) is structured to support the scaling of our solution beyond Speak MPLS, ensuring we can meet the needs of a diverse range of users. Key budget categories include:
+
+- **Development Costs**: Allocation for software development, including front-end and back-end development, to build a scalable, user-friendly TV Guide UI and content management system.
+- **Testing and Validation**: Resources dedicated to testing with Speak MPLS, including user feedback sessions, usability testing, and iterative improvements based on this initial deployment.
+- **Infrastructure and Operations**: Investment in the necessary infrastructure to support a scalable solution, including server costs, data storage, and operational tools.
+- **Marketing and Outreach**: Funds to introduce [Docket.tv](http://docket.tv/) to potential users, including broadcasting organizations and content creators, through targeted marketing campaigns and outreach efforts.
+- **Project Management and Administration**: Allocation for project management, including coordination of development efforts, stakeholder communication, and administrative support.
+
+## Funding Sources
+
+Funding for [Docket.tv](http://docket.tv/) will be sought from a combination of sources to ensure a robust financial foundation for the project:
+
+- **Internal Funding**: Initial seed funding from our existing budget, earmarked for innovation and new product development.
+- **Grants and Sponsorships**: Pursuit of grants and sponsorships from organizations interested in supporting media innovation, accessibility, and community engagement.
+- **Client Contributions**: As Speak MPLS benefits from the MVP and provides critical validation, a portion of their contribution will be reinvested into the broader development of [Docket.tv](http://docket.tv/).
+- **Investor Funding**: Engagement with potential investors who see the value in a scalable solution for the broadcasting and content creation market.
+
+## Resource Allocation
+
+Resources will be allocated efficiently to ensure the successful development and launch of [Docket.tv](http://docket.tv/), with a focus on:
+
+- **Technical Team Expansion**: Hiring additional developers and designers as needed to meet development timelines.
+- **User Experience Research**: Conducting in-depth research to understand the needs of our broader user base beyond Speak MPLS.
+- **Community Engagement**: Building relationships with potential users and stakeholders to ensure [Docket.tv](http://docket.tv/) meets the diverse needs of the broadcasting community.
+
+Speak MPLS's role as the initial user and validator of [Docket.tv](http://docket.tv/)'s MVP is pivotal, providing a real-world application that will inform improvements and enhancements. This strategic approach ensures that resources and budget are aligned with our mission to revolutionize content management and viewer engagement for broadcasters and content creators alike.
+
+# Expected Outcomes and Benefits
+
+---
+
+The [Docket.tv](http://docket.tv/) project is poised to revolutionize the way broadcasters and viewers interact in the digital age. By leveraging a user-friendly, configurable TV Guide CMS, we anticipate a series of impactful outcomes and benefits that will not only enhance the broadcasting experience but also foster a more engaged and informed community.
+
+## Enhanced Viewer Engagement
+
+[Docket.tv](http://docket.tv/) will transform the viewer experience by providing an intuitive, web-based TV guide that makes discovering and engaging with live and scheduled content effortless. This accessibility is expected to increase viewer engagement, as users can easily navigate through a wealth of programming options tailored to their interests.
+
+## Streamlined Broadcast Management
+
+For broadcasters, [Docket.tv](http://docket.tv/) offers a seamless integration with cablecast APIs, enabling a more efficient management of live content. This integration simplifies the scheduling process, reduces operational inconsistencies, and allows broadcasters to focus on content creation rather than administrative tasks.
+
+## Community Empowerment
+
+By democratizing access to broadcasting tools, [Docket.tv](http://docket.tv/) empowers local voices and fosters community dialogue. This platform provides an avenue for diverse content creators to share their stories, opinions, and art, enriching the cultural tapestry of the community.
+
+## Increased Accessibility
+
+[Docket.tv](http://docket.tv/) is committed to inclusivity, ensuring that the platform is accessible to all users, including those with disabilities. Features like closed captioning, audio descriptions, and text-to-speech options make content more accessible to viewers with varying needs, promoting a more inclusive media landscape.
+
+## Sustainable Broadcasting Model
+
+The project aims to introduce a sustainable model for public access TV and digital broadcasting. By offering a platform that combines the community focus of public access TV with the technological advantages of modern streaming services, [Docket.tv](http://docket.tv/) addresses the funding and sustainability challenges faced by traditional broadcasting models.
+
+## Data-Driven Insights
+
+With an integrated analytics dashboard, broadcasters can gain valuable insights into viewer engagement and content performance. This data-driven approach enables continuous improvement of content offerings, ensuring that programming meets the evolving interests and needs of the community.
+
+In summary, [Docket.tv](http://docket.tv/) is set to deliver significant outcomes and benefits for both broadcasters and viewers. By enhancing viewer engagement, streamlining broadcast management, empowering communities, increasing accessibility, promoting sustainability, and providing data-driven insights, [Docket.tv](http://docket.tv/) will redefine the broadcasting landscape for the digital era.
+
+# Project Team and Management
+
+---
+
+The [Docket.tv](http://docket.tv/) project will be spearheaded by a dedicated team, combining expertise in software development, broadcasting, and community engagement. This multidisciplinary approach ensures a comprehensive understanding of both the technical and social dimensions of the project.
+
+## Team Composition
+
+- **~~Project Lead~~ Director of Operations**: Oversees the entire project, ensuring alignment with the mission and vision, and serves as the primary liaison with stakeholders.
+- **Director of Technology**: Responsible for the technical architecture of [Docket.tv](http://docket.tv/), leading the development team in building a robust and scalable platform.
+- **Broadcasting Specialist**: Brings in-depth knowledge of broadcasting operations, ensuring the platform meets the needs of public access TV stations and their audiences.
+- **~~Community Manager**: Engages with both creators and viewers, fostering a vibrant community around [Docket.tv](http://docket.tv/), and gathering feedback for continuous improvement.~~
+- **~~Marketing Coordinator**: Develops and implements strategies to promote [Docket.tv](http://docket.tv/) to potential users and stakeholders, increasing visibility and adoption.~~
+
+## Roles and Responsibilities
+
+- The **~~Project Lead~~ Director of Opertations** will coordinate project activities, manage timelines, and ensure that all team members are aligned with the project's goals.
+- The **Technical Director** will make key decisions regarding the platform's technology stack, oversee the development process, and ensure the platform's reliability and security.
+- The **Broadcasting Specialist** will provide insights into the operational needs of broadcasters, contribute to the design of broadcaster-centric features, and assist in outreach to public access TV stations.
+- ~~The **Community Manager** will manage social media channels, forums, and other communication platforms, acting as the voice of [Docket.tv](http://docket.tv/) to the community and bringing community insights back to the team.~~
+- ~~The **Marketing Coordinator** will create marketing materials, manage advertising campaigns, and work closely with the Community Manager to build a strong brand presence.~~
+
+## Project Management Approach
+
+The project will adopt an agile methodology, allowing for flexibility and rapid iteration based on user feedback and technical challenges. Regular team meetings will ensure open communication and alignment, while task tracking tools will be used to monitor progress and manage priorities.
+
+## ~~Governance Structure~~
+
+~~A steering committee, comprising the Project Lead Director of Operations, Technical Director, and key stakeholders, will provide oversight and strategic direction for the project. This structure ensures that [Docket.tv](http://docket.tv/) remains focused on its mission and responsive to the needs of its users and the broader community.~~
+
+# Sustainability and Impact
+
+---
+
+The sustainability and impact of [Docket.tv](http://docket.tv/) are anchored in its innovative use of technology and commitment to community engagement. By leveraging a stack comprising Nuxt, TailwindCSS, DaisyUI, and Apache ECharts for the frontend, alongside Nitro Engine for the Docket API, PocketBase for authentication, file storage, messaging, and database management, and the integration of OpenAI and Google's Gemini API for advanced AI features, [Docket.tv](http://docket.tv/) is poised for long-term viability and influence.
+
+## Sustainability
+
+1. **Technical Architecture:** The choice of Nuxt and TailwindCSS ensures a robust, scalable frontend, while DaisyUI enhances UI/UX design efficiency. Apache ECharts will provide dynamic, interactive data visualizations, crucial for analytics features. The Nitro Engine and PocketBase offer a resilient backend solution, with PocketBase hosted on [Pockethost.io](http://pockethost.io/) ([docket.pockethost.io](http://docket.pockethost.io/)) for reliable service. This architecture supports scalability and adaptability to future technological advancements or user needs.
+2. **Open Source and Collaboration:** Utilizing GitHub for version control and Vercel for frontend hosting encourages open-source contributions and continuous integration/continuous deployment (CI/CD) practices, fostering a collaborative development environment. This approach not only accelerates innovation but also ensures the platform remains cutting-edge.
+3. **AI Integration:** Incorporating OpenAI and Google's Gemini API for generative closed captioning and viewer engagement analytics introduces a level of automation and personalization previously unseen in public access TV platforms. This AI-driven approach enhances user experience and operational efficiency, contributing to the platform's sustainability.
+
+## Impact
+
+1. **Community Engagement:** By providing a user-friendly, accessible platform for content creators and viewers alike, [Docket.tv](http://docket.tv/) empowers local voices and fosters community engagement. The platform's design and features encourage active participation, making public access TV more relevant and impactful in the digital age.
+2. **Innovation in Accessibility:** The project's commitment to accessibility, demonstrated through AI-generated closed captioning and analytics, sets a new standard for inclusive design in digital platforms. This not only broadens the audience reach but also reinforces the platform's role in promoting diversity and inclusion.
+3. **Environmental Considerations:** Hosting solutions like [Pockethost.io](http://pockethost.io/) and Vercel are chosen with an eye towards energy efficiency and minimizing the environmental footprint of digital infrastructure. This reflects a broader commitment to sustainability that extends beyond the platform itself.
+
+**Documentation and Project Management:**
+
+The use of Figma for interface design, Google GSuite, and Notion for project management, alongside a dedicated Notion page for customer-facing wiki, API documentation, and internal task management using Kanban boards, ensures that the project remains organized, transparent, and on track. This structured approach to project management supports the project's sustainability by enabling efficient collaboration and communication.
+
+In conclusion, [Docket.tv](http://docket.tv/)'s sustainability and impact are deeply intertwined with its technological choices, collaborative ethos, and commitment to community engagement and accessibility. The project is positioned not just as a platform but as a movement towards a more inclusive, engaged, and sustainable future for public access television.
+
+# Revenue Model
+
+---
+
+Justifying the pricing for [Docket.tv](http://docket.tv/) can be approached by highlighting the value provided at each tier and comparing it to the competitive landscape. Here’s a breakdown:
+
+### Free Tier
+
+- **Target Audience**: Small broadcasters or individuals just starting out.
+- **Value Proposition**: Provides essential features to get started with a basic TV guide, limited customization, and community support. This tier allows users to experience the platform without any financial commitment, encouraging adoption and potential upgrades. This tier is for small broadcasters or individuals just starting out who want to get a taste of what [Docket.tv](http://docket.tv/) has to offer.
+- **Competitive Edge**: Many competitors do not offer a free tier, making [Docket.tv](http://docket.tv/) more accessible to a broader audience.
+
+### Basic Tier ($49(?)/month)
+
+- **Target Audience**: Small to medium-sized broadcasters who need more customization and support.
+- **Value Proposition**: Offers a configurable TV guide, standard customization, email support, advanced analytics, Cablecast API integration, and embeddable widgets. This tier provides significant value for a relatively low cost, enabling broadcasters to enhance their viewer engagement and streamline operations. This tier is for small to medium-sized broadcasters who need more customization and support.
+- **Competitive Edge**: Competitors like Plex TV and Pluto TV may offer similar features but often at higher prices or with less customization. The inclusion of advanced analytics and API integration at this price point is particularly attractive.
+- **Description for Stripe (Appears at checkout, on the customer portal, and in quotes.)**: Provides cablecast integration, producer management, show management, and scheduling.
+
+### Pro Tier ($199(?)/month)
+
+- **Target Audience**: Larger broadcasters or those with more complex needs.
+- **Value Proposition**: Includes full TV guide customization, priority support, a comprehensive analytics dashboard, enhanced Cablecast API integration, interactive features (live chat, polls), multiple embeddable widgets, and white-label options. This tier is designed for broadcasters who need advanced features and high levels of customization and support.
+- **Competitive Edge**: The Pro tier offers a comprehensive suite of features that are often only available in much more expensive enterprise solutions. The inclusion of interactive features and white-label options provides significant added value, making it a cost-effective choice for larger broadcasters.
+
+### Rationale Behind Our Pricing
+
+1. **Feature Set**: Each tier is carefully designed to offer a set of features that align with the needs and budgets of different segments of broadcasters. The progression from basic to advanced features justifies the incremental pricing.
+2. **Market Comparison**: When compared to competitors, [Docket.tv](http://docket.tv/) offers a competitive pricing structure with a robust set of features. Many competitors either do not offer a free tier or charge significantly more for similar features.
+3. **Value for Money**: The pricing reflects the value provided at each tier. The Free tier allows users to get started without any cost, the Basic tier offers essential features at an affordable price, and the Pro tier provides advanced features and customization options that justify the higher price point.
+4. **Scalability**: The tiered pricing model allows broadcasters to start with a lower-cost plan and scale up as their needs grow, ensuring long-term customer retention and satisfaction.
+
+# Conclusion
+
+---
+
+As we conclude this proposal, let's revisit the core objectives of [Docket.tv](http://docket.tv/). Our mission is to revolutionize broadcaster-audience connections, using technology to bridge content creators and viewers. This initiative aims to enhance the broadcasting experience and foster a more connected, engaging, and inclusive public access TV ecosystem.
+
+For our partnership, [Docket.tv](http://docket.tv/) offers a significant opportunity. By aligning our efforts, we can streamline operations, empower creators, and enhance viewer engagement. The potential impact includes increased revenue through higher viewer retention and reduced operational costs via efficient content management.
+
+Next steps: we seek your approval and support to implement [Docket.tv](http://docket.tv/). This project is poised for success but requires our collective commitment. Securing the necessary funding and resources will ensure smooth execution and scalability.
+
+Our commitment to [Docket.tv](http://docket.tv/) is unwavering. We are ready to lead its implementation, providing resources and support to navigate challenges. Our team will ensure alignment with our shared vision and objectives.
+
+Collaboration is key. [Docket.tv](http://docket.tv/) embodies our mutual goals for innovation and community engagement. This project aligns with our business strategy, promising to enrich our portfolio and reinforce our market position.
+
+In conclusion, [Docket.tv](http://docket.tv/) is more than a project; it's a pathway to transforming public access TV for the digital age. We are excited about its possibilities and confident in its success. Together, we can turn this vision into reality, setting a new standard for broadcasting excellence. Let's embark on this journey with enthusiasm and determination, shaping the future of public access TV.

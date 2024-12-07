@@ -1,0 +1,67 @@
+# Gumbo Tech | Mission
+
+Gumbo Tech is a subsidiary of Gumbo Media LLC. It is a technology company that aims to create innovative solutions to problems that affect the Black community. It focuses on creating products and services that are accessible, affordable, and scalable. Gumbo Tech is a technology company that aims to create innovative solutions to problems that affect the Black community. It focuses on creating products and services that are accessible, affordable, and scalable.
+
+# Gumbo Tech | Structure
+
+* Gumbo Media
+  * The Seed Project
+  * Gumbo Fit
+  * `Gumbo Tech`
+
+# Gumbo Tech | Stack
+
+ - Stack
+    - Web design & development
+        - Template
+            - Webflow
+        - Custom
+            - SvelteKit
+            - TailwindCSS
+    - Full-stack software development
+        - Frontend
+            - Web apps
+                - Nuxt
+                - DaisyUI
+                - TailwindCSS
+            - Mobile apps
+                - Flutter
+        - Backend
+            - Auth
+                - PocketBase
+            - DB
+                - PocketBase
+            - API
+                - NodeJS
+            - DevOps
+                - Vercer
+                - PocketHost
+                - Docker
+            - Version control
+                - GitHub
+            - AI
+                - OpenAI
+                - Gemini
+                - Ollama
+    - UI/UX
+        - Figma
+    - Ecommerce
+        - Stripe
+    - Project Management
+        - Notion
+        - Slack
+        - GitHub
+    - Data analysis & automation
+        - AI Integration
+            - ChatGPT
+            - Zapier
+            - Relecance.ai
+- Products
+    - Maya: Looseleaf (AI copywriter [monthly subscription])
+    - Coppable:
+- Internal
+    - Automate gumbo internal processes using AI
+- Business Model
+    - SAAS subscriptions (stripe)
+- Processes
+    - Agile

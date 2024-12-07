@@ -1,0 +1,1 @@
+also, i wanted to touch on your note about the perfectionism piece because I think 

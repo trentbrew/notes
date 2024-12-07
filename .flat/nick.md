@@ -1,0 +1,5 @@
+a missed deadline
+
+Also, I understand your frustration with me and it's a frustration with myself that we share. It's hard to be graceful with myself when I feel like I'm constantly letting people down. I know apologies won't reverse time, but I want you to know that this is not something you can expect from me in the future. There are no excuses for my poor communication.
+
+I'm not sure if youve met Kia one of the other designers at Gumbo but I spoke with her over the Weekend to try and get some perspective on managing this kind of process cuz I know it's not easy for you either. She has a unique perspective as a director + designer and she's been really helpful in helping me understand how to better approach this kind of process. I'm happy to share some of the insights she shared with me if you think it would be helpful.

@@ -1,0 +1,3 @@
+Write a manifesto for a writing app tailored for grant writers and government contractors. the app will allow contractors to upload documents to optimize their proposal and it will be able to fact check by searching the web, catch errors, autosuggest as you type, and have surgical AI tools for discrete edits. It is essentially cursor IDE but for prose instead of code.
+
+I've had a ton of people ask me how I go about writing so well and so fast and its just that I use cursor to write rather than Google Docs / Notion / ChatGPT etc. Most people dont know about cursor or VScode for that matter, and will not use an IDEto write cuz its overwhelming. I wanna replicate and enhance the writing experience from Cursor for a broader audience.

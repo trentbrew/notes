@@ -1,0 +1,147 @@
+Hi Matthew,
+
+Happy Monday! Thank you for your guidance on how to proceed with Tenia and Gena. I'll be reaching out to them before Wednesday and I'll keep you posted on their responses.
+
+I've attached the communications I've had with Gena regarding the website inquiry, as well as the original draft for her brand identity, and the manifesto for Hidden Gems Consulting.
+
+Let me know if there's anything else I can provide.
+
+Also,
+
+From: Matthew Manning <mmanning@gumbomedia.com>
+Sent: Monday, December 11, 2023 7:44 AM
+To: Trent Brew <tbrew@gumbomedia.com>
+Cc: Asia Gibson <agibson@gumbomedia.com>; Austin Sellers <asellers@gumbomedia.com>
+Subject: Re: Referral of New Clients: Leadershipwise & Hidden Gems
+
+Hey Trent –
+
+Thanks so much for the note and update. Let’s do the following:
+
+Leadershipwise (Tenia Davis) – As you’re heading into the close of this initial contract into the holidays, please communicate with Tenia that you’ve seeded a new working relationship and will be folding (most of) your work moving forward through Gumbo Media, a boutique Black-owned agency. And that the continuation of this work, and any new additions—including the mobile site version and add training modules you noted—will be scoped into a new contract, to commence in early January. And once that is approved by her, feel free to get me in touch via email, so we can discuss further what that looks like. Given that you’re helping us transition, I’d like for you to be part of that thread, and any connected discovery calls.
+
+Hidden Gems Consulting (Gena Lovett) – If you can communicate something similar to Gena and get her approval to move forward with this through your new agency partner, that’ll be helpful. From there, like you said, it’s an easy transition given that all of this is new, and you can connect her via email in the same way I mentioned for Tenia.
+
+In the meantime, for both projects, yes, please send over any relevant communications you’ve had to date so we can add these contexts to our Sales portal and set ourselves up for success with the scoping conversations.
+
+Hopefully, we can get some of this wrapped (clarity-wise) this week, so we know what we’re heading into before this extended holiday break.
+
+Appreciate you for passing these along. Let’s also discuss (you and I) what this means for you and your contract. I want to make sure it’s spelled out (in fairness to you), that you are staffed on any projects you bring in, at least as long as you want to be. And that any other mutual parameters are met as well!
+
+Happy Monday!
+
+--
+
+Matthew Manning (he/him)
+
+Gumbo Media
+
+Co-Founder, Creative Director
+
+signature_1199887360
+
+Purchase Gumbo Magazine Issue 001: Black today!
+
+Gumbo | Magazine | GumboFit | Blackwords.co
+
+From: Trent Brew <tbrew@gumbomedia.com>
+Date: Friday, December 8, 2023 at 5:35 PM
+To: Matthew Manning <mmanning@gumbomedia.com>
+Cc: Asia Gibson <agibson@gumbomedia.com>, Austin Sellers <asellers@gumbomedia.com>
+Subject: Re: Referral of New Clients: Leadershipwise & Hidden Gems
+
+Hey Matthew,
+
+My current communications and working relationship with Tenia and Gena are as follows:
+
+Leadershipwise (Tenia Davis)
+
+Tenia and I are currently six weeks into the Webflow site redesign. The design phase is nearly complete, and the site can be previewed at leadershipwise.webflow.io. We still need to develop the mobile site version and add training modules, which require additional development and video editing. Our communication has been a mix of text, bi-monthly Zoom meetings, and occasional emails. Her retainer is active until December 31st, aligning well for a potential transition to Gumbo.
+
+Hidden Gems Consulting (Gena Lovett)
+
+I've worked with Gena in the past on the brand identity and logo for Hidden Gems Consulting. Gena reached out to me this past Monday via text to inquire about a website for her new book, and she detailed her vision for the website in our most recent conversation. I'm happy to provide more details on that conversation and the project scope.
+
+The serendipity of Gena's timing presents an opportunity to bring her directly on board with Gumbo, as we haven't formalized any retainer or project scope yet. This could be a seamless start for her engagement with the team. I'm happy to initiate that conversation before our call on Monday but let me know if it would be best to wait until we sync.
+
+Looking forward to aligning with you on Monday and exploring these promising opportunities further. Have a great weekend!
+
+Regards,
+
+Trent
+
+From: Matthew Manning <mmanning@gumbomedia.com>
+Sent: Friday, December 8, 2023 11:19 AM
+To: Trent Brew <tbrew@gumbomedia.com>
+Cc: Asia Gibson <agibson@gumbomedia.com>; Austin Sellers <asellers@gumbomedia.com>
+Subject: Re: Referral of New Clients: Leadershipwise & Hidden Gems
+
+Hi Trent –
+
+This is great! Would love to get these going next week. Definitely both in our wheelhouse, and projects we’d be interested in taking on.
+
+I think what’d be helpful is to learn more about where communications on these projects are currently. Have these folks both reached out to you to provide these services already? Or did you learn about their general needs from somewhere? Or are they already active clients of yours?
+
+If they’re already in the wings, then I think the next best step is to sync on Monday about how to connect them to us, and to make sure they feel comfortable with that connection. At which point, we can rev up contracting and any related comms directly with the prospective clients.
+
+Let me know! Thanks, and appreciate you amplifying these opportunities.
+
+--
+
+Matthew Manning (he/him)
+
+Gumbo Media
+
+Co-Founder, Creative Director
+
+signature_1199887360
+
+Purchase Gumbo Magazine Issue 001: Black today!
+
+Gumbo | Magazine | GumboFit | Blackwords.co
+
+From: Trent Brew <tbrew@gumbomedia.com>
+Date: Friday, December 8, 2023 at 6:06 AM
+To: Asia Gibson <agibson@gumbomedia.com>, Matthew Manning <mmanning@gumbomedia.com>
+Subject: Referral of New Clients: Leadershipwise & Hidden Gems
+
+Hi Asia and Matthew,
+
+I hope you're both doing well. I'm reaching out to introduce two clients for potential collaboration with Gumbo. Below are the details for each, including their business profiles, needs, and contact information.
+
+1. Leadershipwise (Servant leadership consultancy)
+
+Client Name: Tenia Davis, Ph.D.
+Business Profile: Leadershipwise specializes in servant leadership and helps individuals and businesses create thriving corporate environments. They offer expert advice and strategic solutions to empower a new generation of leaders.
+Contact Information:
+Email: davis-tenia@norc.org
+Phone: +1 312-493-6997
+LinkedIn: Tenia Davis LinkedIn Profile
+Website: leadership-wise.com
+Needs:
+Website redesign to promote her book and consulting services, including integrating training modules.
+Video editing for online training courses.
+Social media strategy and execution.
+Marketing strategy for book and services.
+Budget: TBD
+Supplemental Information: Attached [leadershipwise_brand_voice.pdf] 2. Hidden Gems Consulting (Operations and culture transformation)
+
+Client Name: Gena C. Lovett, Ph.D.
+Business Profile: Hidden Gems Consulting is a boutique firm specializing in operational excellence, executive coaching, and cultural transformation. They help companies align purpose with day-to-day operations.
+Contact Information:
+Email: gclovett@hiddengemsconsulting.com
+Phone: +1 216 509 6695
+LinkedIn: Gena C. Lovett LinkedIn Profile
+Website: hiddengemsconsulting.com
+Needs:
+Webflow site design and development for book promotion and consulting services.
+Distinct spaces for speaking engagements and consulting services, including e-commerce, booking systems, and content showcase.
+Art direction and brand strategy.
+Social media strategy and execution.
+Budget: TBD
+Supplemental Information: Attached [hgc_overview.pdf]
+
+Please let me know how you'd like to proceed, and if there's any other information you need.
+
+Regards,
+Trent

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Card Layout</title>
+    <style>
+      /* Adding Google Fonts */
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+      /* CSS Reset */
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: "Montserrat", sans-serif;
+      }
+
+      .card {
+        width: 300px;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        font-family: "Montserrat", sans-serif;
+      }
+
+      .card .header {
+        background-color: #4b3b40;
+        color: white;
+        padding: 16px;
+        font-size: 14px;
+        text-transform: uppercase;
+      }
+
+      .card .profile {
+        background-color: #f4a261;
+        color: white;
+        padding: 16px;
+        position: relative;
+      }
+
+      .card .profile img {
+        width: 100%;
+        display: block;
+        border-bottom: 60px solid #2a9d8f;
+      }
+
+      .card .profile .name {
+        position: absolute;
+        bottom: 70px;
+        left: 16px;
+        margin: 0;
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      .card .profile .pronouns {
+        position: absolute;
+        bottom: 45px;
+        left: 16px;
+        margin: 0;
+        font-size: 16px;
+        font-weight: 400;
+      }
+
+      .card .footer {
+        background-color: #2a9d8f;
+        color: white;
+        padding: 16px;
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+        height: 60px; /* Match the height of the bottom border on the image */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <div class="card-image"></div>
+      <div class="card-header">ST. PAUL</div>
+      <div class="card-title">Jaida Grey Eagle</div>
+      <div class="card-subtitle">(SHE/HER)</div>
+      <div class="card-content">"WHAT BRINGS US?"</div>
+      <!-- The footer text is inside the content area due to the single div limitation -->
+    </div>
+  </body>
+</html>

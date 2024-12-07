@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1b9d0d7991616d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd53f993220f3ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da79f11365e44827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gumbo/archive/Operation Sea Turtle/matthew/thread-12-12-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba13d3a7789e3321",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "5acd14b9ca086896",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de83db02b27c96dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7d486d2270cad5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91e717a2dda0cfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "915a39e75bbdd8b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d02611a688d1c834",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "eebbc0601c05a382",
+    "type": "split",
+    "children": [
+      {
+        "id": "abaa21e69b465233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e27b7e762020e3f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gumbo/archive/Operation Sea Turtle/matthew/thread-12-12-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f60796c259c884cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gumbo/archive/Operation Sea Turtle/matthew/thread-12-12-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df9789c5fea7174f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5346ee91e4c89fbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gumbo/archive/Operation Sea Turtle/matthew/thread-12-12-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5acd14b9ca086896",
+  "lastOpenFiles": [
+    "Gumbo/archive/Operation Sea Turtle/matthew/thread-12-12-23.md",
+    "Flows/feynman-technique.md",
+    "Gumbo/Dev/project stuff.md",
+    "Gumbo/Misc/1-10-2024.md",
+    "proust.md",
+    "Me/snapshot(2024).md",
+    "ToT/overview.md",
+    "ToT/Journal/Foundations/outline.md",
+    "2024-01-09.md",
+    "Words/trentionary.md",
+    "TextFX/explode.md",
+    "Resume/cv.md",
+    "Random/3D.md",
+    "Me/proust.md"
+  ]
+}

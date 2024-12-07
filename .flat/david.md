@@ -1,0 +1,25 @@
+**David Owasi**: Hey Trent, I've been diving deep into innovative B2B SaaS solutions and came across your company. I'm genuinely impressed and would love to connect to learn more and explore potential synergies. How does that sound?
+
+**Trenton Brew**: Hi David, thank you so much for reaching out—I really appreciate your kind words and your interest in Turtle Labs. We love what we do and are committed to making custom software development, design services, and idea realization as a whole accessible for everyone. I would absolutely love to connect and learn more about your insights & experiences, as well as how our paths might align. Feel free to reach out to me via email at trent@turtle.tech, or you can give me a call at +16365151293. I'm looking forward to our conversation and the opportunity to explore exciting possibilities together. Wishing you a fantastic day ahead! Best regards, Trent
+
+**David Owasi**: Absolutely! I have a software engineering background as well. I've dedicated the last few years to building accessible marketing tools for businesses to leverage AI and automation. I'd love to show you what we're working on and get your feedback. I have Thursday at 10am or 4:30pm EST. Which works better for you?
+
+**Trenton Brew**: 4:30pm EST sounds great! Happy to connect through either Zoom or phone, whichever works best for you. I'm so excited to learn more about what you've been crafting.
+
+**David Owasi**: Awesome! I emailed you a zoom link. Chat soon.
+
+**David Owasi**: Good morning Trent, did you see my email from yesterday with the next steps to onboard you onto the platform?
+
+**David Owasi**: Following up Trent, still interested in proceeding with your onboarding call? Here is my calendar link to book the call - [ACE New Client Onboarding Call - David Owasi](https://calendly.com/davidowasi/acenewclientonboarding)
+
+**Trenton Brew**: Hi David, I hope this message finds you well. I'm reaching out to apologize for my lack of communication these past few weeks. I've been navigating some personal challenges but that isn't an excuse for my aloof behavior, and I sincerely apologize if I was disrespectful to you, your time, or the team in any way. I was really excited when you reached out because your story was so inspiring to me as a black creative / developer / entrepreneur and I was looking forward to the opportunity to work closely with you in hopes of learning from your mentorship, guidance, and expertise in the field. As someone who isn't motivated by money, this path has been a painful one for me. I tend to have difficulty assigning value to the work I love doing, and especially asking for help/advice. I want you to know that I admire you and your craft and what you've built, and I'd love nothing more than to contribute under your tutelage. I'd be willing to contribute on a monthly retainer basis at a rate of your verdict, spanning graphic design, UI/UX, systems architecture, and full-stack development. However, I understand that doors left often for too long tend to let bugs in, so I completely understand if you're not interested and I hope that my discretion to ask hasn't come across as coarse in any way. OutReachGenius blew me away and I want to thank you again for taking the time to demo the product with me (although I couldn't help but to feel a little deceived that I was talking with a robot in our first few interactions lol). I unfortunately can't afford to use the tool but I'd be happy to offer my time as a usability tester if possible. It's a really special product, and I think with a simpler UX and a metered pricing model it could quickly make a huge impact in so many people's lives, and I'm excited to seeing it explode 🚀 Thank you for your time as always, and I look forward to hearing from you soon Kind regards, Trent
+
+**David Owasi**: Hey Trent! Let's book a call next week [30 Minute Meeting - David Owasi](https://calendly.com/davidowasi/30min)
+
+**Trenton Brew**: Hi David, It's great to hear from you! I really appreciate your response and the opportunity to reconnect. I've scheduled some time for us on Thursday afternoon but I'm open to adjusting if another time suits you better.
+
+**Trenton Brew**: Hi David, just rushed here in a panic after realizing I overbooked this afternoon. I'm so sorry for my absence and I'm available now or anytime the rest of the day if it's at all possible for us to continue our conversation.
+
+**David Owasi**: Hey Trent! My co-founder was looking at your personal website and was very impressed with your work. Let's book another call again to discuss your expertise, please make sure to show up this time around. Find a time here - [30 Minute Meeting - David Owasi](https://calendly.com/davidowasi/30min)
+
+**Trenton Brew**: Hi David! Thanks so much for the opportunity to reconnect. I've booked some time for us next Thursday at 3pm CT. I'm looking forward to our discussion and the chance to share more about my work with you and the team. Please let me know if there's anything specific you'd like me to prepare or bring to our meeting. Thanks again!

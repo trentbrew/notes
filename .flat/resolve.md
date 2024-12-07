@@ -1,0 +1,1 @@
+Thanks for being so accommodating and patient, Tenia. I'm eager to sort out the domain this out and ensuring Justin is all set on the backend. I'll hop on the call tomorrow to share any useful insights. While I'd greatly appreciate your input, please feel free to join only if it suits you. Rest assured, I'll fill you in on any key takeaways from our chat should you miss it.

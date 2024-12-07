@@ -1,0 +1,324 @@
+.
+├── Personal
+│   ├── Blog
+│   │   ├── About.md
+│   │   ├── Custom AI DJ for Spotify.md
+│   │   ├── Dynamic Subdomains.md
+│   │   ├── Interpolative Interfaces.md
+│   │   ├── Programmable Notes.md
+│   │   ├── Spatial Notes.md
+│   │   ├── Squishy Structure.md
+│   │   ├── The Final Tool for Thought.md
+│   │   ├── VSCode for Notetaking.md
+│   │   └── _braindump.md
+│   │   ├── Journal
+│   │   │   ├── 7-18-2024.md
+│   │   │   ├── 8-11-2024.md
+│   │   │   └── 8-25-2024.md
+│   ├── Me
+│   │   ├── _bio.md
+│   │   ├── bios.md
+│   │   ├── merely_a_reflection.md
+│   │   ├── reflections.md
+│   │   ├── resume.md
+│   │   ├── snapshot(2024).md
+│   │   └── thecode.md
+│   ├── Misc
+│   │   ├── Backups
+│   │   │   └── alia-backup.md
+│   │   ├── Black Ambition
+│   │   │   ├── _form.md
+│   │   │   ├── braindump.md
+│   │   │   ├── deck_script.md
+│   │   │   ├── perfect-pitch-notes.md
+│   │   │   ├── pitch-deck-template.md
+│   │   │   ├── projects.md
+│   │   │   ├── singletons.md
+│   │   │   └── turtle_business_plan.md
+│   │   ├── GPTs
+│   │   │   └── programmer.md
+│   │   ├── Jobs
+│   │   │   └── Companies
+│   │   │       ├── 64robots
+│   │   │       │   ├── common-questions.md
+│   │   │       │   ├── email-drafts.md
+│   │   │       │   ├── reaching-out.md
+│   │   │       │   └── thankyou.js
+│   │   │       ├── Deepski
+│   │   │       │   └── ap.md
+│   │   │       ├── Digital PMO Group
+│   │   │       │   └── questions.md
+│   │   │       ├── Geneva Global
+│   │   │       │   └── email.md
+│   │   │       ├── Google
+│   │   │       │   └── google.md
+│   │   │       ├── Mach Five Tech Group
+│   │   │       │   └── email.md
+│   │   │       ├── Mess
+│   │   │       │   └── mess.md
+│   │   │       ├── Plain
+│   │   │       │   └── plain.md
+│   │   │       ├── Restream
+│   │   │       │   └── application.md
+│   │   │       ├── Teton
+│   │   │       │   └── teton.md
+│   │   │       └── Whimsical
+│   │   │           └── application.md
+│   │   ├── Prompts
+│   │   │   └── ify.md
+│   │   ├── Random
+│   │   │   ├── 3D.md
+│   │   │   ├── 8-20-22.md
+│   │   │   ├── WrappingUp.md
+│   │   │   ├── an_accidental_meditation.md
+│   │   │   ├── apt-showing.md
+│   │   │   ├── apts.md
+│   │   │   ├── bim.md
+│   │   │   ├── bnb.md
+│   │   │   ├── calculator-design.md
+│   │   │   ├── chopchop.md
+│   │   │   ├── contract.md
+│   │   │   ├── damnitkia.md
+│   │   │   ├── drsal.md
+│   │   │   ├── ghetto-alia.md
+│   │   │   ├── implementation.md
+│   │   │   ├── kia.md
+│   │   │   ├── lo-stuff.md
+│   │   │   ├── lo.md
+│   │   │   ├── mental.md
+│   │   │   ├── notepad.md
+│   │   │   ├── payment.md
+│   │   │   ├── pop.md
+│   │   │   ├── post.md
+│   │   │   ├── profile.md
+│   │   │   ├── prompt.md
+│   │   │   ├── proust.md
+│   │   │   ├── secretsanta.md
+│   │   │   ├── services.md
+│   │   │   ├── usersheet.css
+│   │   │   ├── vimeo.md
+│   │   │   ├── wabicomm.md
+│   │   │   ├── webflow.md
+│   │   │   ├── wp.md
+│   │   │   └── wp2.js
+│   │   ├── Stripe
+│   │   │   └── thread.md
+│   │   ├── TextFX
+│   │   │   └── explode.md
+│   │   ├── ToT
+│   │   │   ├── Journal
+│   │   │   │   └── Foundations
+│   │   │   │       └── outline.md
+│   │   │   ├── overview.md
+│   │   │   └── xml.md
+│   │   └── Words
+│   │       └── trentionary.md
+│   ├── Prose
+│   │   └── values.md
+│   ├── Quickies
+│   │   ├── just_notes.md
+│   │   ├── lc.md
+│   │   ├── psych.md
+│   │   ├── scratch.html
+│   │   ├── scratchpad.md
+│   │   ├── seo-google-ads.md
+│   │   ├── silly_ideas.md
+│   │   ├── thots.md
+│   │   └── webflowsucks.md
+│   ├── Resume
+│   │   ├── cv.md
+│   │   ├── resume.json
+│   │   └── resume.txt
+│   └── Writing
+│       ├── notes_on_writing.md
+│       ├── pilot.md
+│       ├── playbook.md
+│       └── takeaways.md
+├── Work
+│   ├── Black Mythology
+│   │   ├── email_thread.md
+│   │   └── sms_thread.md
+│   ├── FroSkate
+│   │   └── accounts.md
+│   ├── Geneva Global
+│   │   └── thread.md
+│   ├── Gumbo Media
+│   │   ├── Client Projects
+│   │   │   ├── Bronzeville Blues
+│   │   │   │   ├── bronzeville-blues.md
+│   │   │   │   ├── site_plan.md
+│   │   │   │   └── thread.md
+│   │   │   ├── CFHI
+│   │   │   │   ├── garden.md
+│   │   │   │   │   ├── Ahrefs.md
+│   │   │   │   │   ├── Axe.md
+│   │   │   │   │   ├── Crazy Egg.md
+│   │   │   │   │   ├── GTmetrix.md
+│   │   │   │   │   ├── Google Analytics.md
+│   │   │   │   │   ├── Google PageSpeed Insights.md
+│   │   │   │   │   ├── Hotjar.md
+│   │   │   │   │   ├── SEMrush.md
+│   │   │   │   │   ├── WAVE.md
+│   │   │   │   │   └── _index.md
+│   │   │   │   └── outline.md
+│   │   │   ├── Dr. Erin Chapman
+│   │   │   │   ├── copy.md
+│   │   │   │   ├── interim.md
+│   │   │   │   ├── master_thread.md
+│   │   │   │   ├── overview.md
+│   │   │   │   └── the_mask_project.md
+│   │   │   ├── Elaine Wackerly
+│   │   │   │   ├── ewh-strategy-session.md
+│   │   │   │   ├── strategy-followup.md
+│   │   │   │   └── strategy-session.md
+│   │   │   ├── Living Cities
+│   │   │   ├── NewRoot
+│   │   │   │   ├── descriptions.md
+│   │   │   │   ├── diagnostics_thread.md
+│   │   │   │   ├── everything.md
+│   │   │   │   ├── final.md
+│   │   │   │   ├── lighthouse.md
+│   │   │   │   ├── links.md
+│   │   │   │   ├── needs.md
+│   │   │   │   ├── questions.md
+│   │   │   │   ├── slack.md
+│   │   │   │   └── thread.md
+│   │   │   ├── Recursion
+│   │   │   │   ├── breakdown.md
+│   │   │   │   └── scope.md
+│   │   │   └── Speak MPLS
+│   │   │       ├── 3-22-2024.md
+│   │   │       ├── 4-22-24.md
+│   │   │       ├── docketupdatesandstuff.md
+│   │   │       ├── mpls_update_draft.md
+│   │   │       ├── questions_notes.md
+│   │   │       ├── rebecca-update.md
+│   │   │       ├── rebecca.md
+│   │   │       ├── scheduling-followup.md
+│   │   │       ├── sms-update.md
+│   │   │       ├── tv-guide-followup.md
+│   │   │       ├── update_for_matthew.md
+│   │   │       └── vistaprint.md
+│   │   ├── Documents
+│   │   ├── Drafts
+│   │   ├── Internal Projects
+│   │   │   ├── Gumbo Website
+│   │   │   │   ├── 2-26-2024.md
+│   │   │   │   ├── 2-6-2024.md
+│   │   │   │   └── sitemaps
+│   │   │   │       ├── knotably.md
+│   │   │   │       └── legacy.xml
+│   │   │   └── Polycal
+│   │   │       └── overview.md
+│   │   └── Operations
+│   │       ├── Development
+│   │       │   ├── 1-15-24(2).md
+│   │       │   ├── 1-15-24.md
+│   │       │   ├── 1-17-24.md
+│   │       │   ├── brandump.md
+│   │       │   ├── gt.md
+│   │       │   ├── notes.md
+│   │       │   ├── project stuff.md
+│   │       │   ├── v1.md
+│   │       │   ├── v2.5.md
+│   │       │   ├── v2.md
+│   │       │   ├── v3.md
+│   │       │   └── v4.md
+│   │       └── Systems
+│   │           └── gumbo.js
+│   │               ├── feynman-technique.md
+│   │               └── gumbo_core.md
+│   ├── ImhotepRX
+│   │   ├── manifesto.md
+│   │   ├── meeting_notes
+│   │   │   ├── 8.16.2024.md
+│   │   │   └── 9.18.2024.md
+│   │   ├── partnership_agreement.md
+│   │   ├── proposal
+│   │   │   ├── context.md
+│   │   │   ├── draft.md
+│   │   │   └── sections
+│   │   │       ├── background_and_context.md
+│   │   │       ├── competitive_analysis.md
+│   │   │       ├── conclusion.md
+│   │   │       ├── expected_outcomes_and_benefits.md
+│   │   │       ├── introduction.md
+│   │   │       ├── methodology_and_approach.md
+│   │   │       ├── ownership.md
+│   │   │       ├── project_team_and_management.md
+│   │   │       ├── resources_and_budget.md
+│   │   │       ├── sustainability_and_impact.md
+│   │   │       └── teach-stack.md
+│   │   ├── proposal.md
+│   │   └── research
+│   │       └── statistics.md
+│   ├── Skatehaus
+│   ├── TODO.md
+│   ├── Telos Affinity Group
+│   │   └── log.md
+│   └── Turtle Labs
+│       ├── Apps
+│       │   ├── Alia
+│       │   ├── Brevity
+│       │   │   ├── _overview.md
+│       │   │   └── concision.md
+│       │   ├── Docket
+│       │   │   ├── 7-25-2024.md
+│       │   │   ├── 8.18-short.md
+│       │   │   ├── 8.18.2024.md
+│       │   │   ├── analysis.md
+│       │   │   ├── devlog.md
+│       │   │   ├── joint_venture_agreement.md
+│       │   │   ├── operating_agreement.md
+│       │   │   ├── partnership_agreement.md
+│       │   │   ├── proposal.md
+│       │   │   └── scratchpad.md
+│       │   ├── Hive
+│       │   │   └── _overview.md
+│       │   └── Malachite
+│       │       └── _overview.md
+│       ├── Clients
+│       │   ├── HGC
+│       │   │   ├── bard.md
+│       │   │   ├── copy.md
+│       │   │   ├── gena-sms.md
+│       │   │   ├── gena.md
+│       │   │   ├── hgc-overview.md
+│       │   │   ├── hgc_manifesto.md
+│       │   │   ├── jan5.md
+│       │   │   ├── pre-kickoff.md
+│       │   │   └── proposal.md
+│       │   ├── LW
+│       │   │   ├── css.md
+│       │   │   ├── dynadot_customer_support.md
+│       │   │   ├── fiverr.md
+│       │   │   ├── phase1-handoff.md
+│       │   │   ├── profile.md
+│       │   │   ├── resolve.md
+│       │   │   ├── tenia.md
+│       │   │   ├── transition-draft.md
+│       │   │   └── wordpress_support.md
+│       │   ├── POD
+│       │   │   ├── discovery-email.md
+│       │   │   └── vercel-access.md
+│       │   └── UHP
+│       │       └── overview.md
+│       └── Documents
+│           ├── Case Studies
+│           │   ├── cultivation-connect.md
+│           │   ├── docket-tv.md
+│           │   └── hbrc.md
+│           └── Contracts
+│               ├── Lawan_and_Trent.md
+│               └── lafaxturtle.md
+├── bigrunnydump.txt
+├── concision.md
+├── littlerunny.txt
+├── runnydump.json
+├── scratch3.md
+├── scratch4.md
+├── scratchpad.md
+├── scratchpad3.md
+├── toiletpaper.js
+├── wiped.json
+└── writingstuff.md
