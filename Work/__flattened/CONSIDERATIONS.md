@@ -1,0 +1,5 @@
+- [ ] Should I bring Lawan onboard to help?
+- [ ] How much time can I commit?
+- [ ] Should I charge hourly, retainer, or flat fee?
+- [ ] Would this be a long-term engagement?
+- [ ] Should I visit SF after new years?

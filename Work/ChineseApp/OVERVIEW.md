@@ -91,7 +91,7 @@ AI features. Unlikely to be added, but maybe it can give “suggestions”. Dang
         - Amazing UI that integrates directly into Netflix and Youtube on Chrome to lookup translations while consuming content without too much interruption.
         - PhrasePump reviews (flashcards with human-speaker audio clips from shows/movies/videos)
         - Exportable saved words list
-      - Cons: .
+      - Cons:
         - It’s all self-scored flashcards.
         - No mobile support
         - Youtube videos must have properly added chinese subtitles (translations and automatic subtitles seem to usually be mismatched with the actual word choice). Not easily fixable.

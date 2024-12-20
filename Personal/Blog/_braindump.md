@@ -12,7 +12,8 @@ Stages
 Possible ideas & stuff
 
 - [ ] [[Brevity: A Scratchpad for Polymaths]]
-- [ ] [[Missing Words]]
+- [ ] [[Personal Fiction]]
+- [ ] [[The Pitfalls of the English Language]]
 - [ ] [[Writing as a Reticent Developer]]
 - [ ] [[VSCode for Notetaking]]
 - [ ] [[Programmable Notes]]
@@ -34,7 +35,7 @@ Possible ideas & stuff
 - [ ] [[Surviving as a Polymath]]
 - [ ] [[Illustration as Communication]]
 - [ ] [[Doodles as Language]]
-- [ ] [[Obsession]]
+- [ ] [[OCD as a Service]]
 - [ ] [[Little Trent's Product Designs]]
 - [ ] [[Reticence and the Internet]]
 - [ ] [[Creative Constraints]]

@@ -15,12 +15,11 @@ Trenton Brew (he/him), is a Chicago-based product designer and software engineer
 ---
 
 Things I think are important:
+
 - Developer experience
 - End-user programming
 
-
 As a developer, Trent's approach is grounded in the belief that developer experience is just as important as user experience. This means crafting software that is scalable, easy to maintain, and well-documented, and unit-tested.
-
 
 ---
 

@@ -1,4 +1,0 @@
-- `Jobs` are a collection of conversation-driven tasks _(chatchains)_ performed by a team of agents to accomplish a singular goal. (editorial, development, design, etc)
-- `Tasks` are a collection of conversation-driven steps _(chatchains)_ performed by a single agent to accomplish a singular goal. (writing, coding, drawing, etc). Agents use tools to accomplish tasks.
-- `Tools` are a collection of functions that can be used to accomplish a singular goal. (search the web, create a file, etc). Tools are used by agents to accomplish tasks.
-- `Agents` are a collection of bots that can be assigned tasks. (editor, developer, designer, etc). Agents use tools to accomplish tasks.

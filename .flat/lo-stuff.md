@@ -1,7 +1,0 @@
-- flajarvan backpack
-- laptop + charger
-- brown skate pants (bottom left drawer)
-- light brown tank top (middle right drawer)
-- addy (top right drawer)
-- little black bad 'eat diamonds' (bathroom top right)
-- red + black dunks (beneath right of dresser)

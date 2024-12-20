@@ -1,6 +1,0 @@
-- `familiar`: "Are you familiar with $1"
-- `clarify`: "Could you expand on $1"
-- `search`: "Please search the web for $1"
-- `concise`: "Could you make this more concise?"
-- `summarize`: "Could you please summarize this for me?"
--
