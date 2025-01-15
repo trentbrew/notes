@@ -293,3 +293,40 @@ Do any of these platforms sound particularly interesting to you? I'd be happy to
 - nerd poetry
 - What is a question you’ve been avoiding lately, and why?
 - huzzah
+- land from the top > clib from the bottom
+- I find myself avoiding updating/talking about things before theyre done cuz i notice that tricks my brain into thinking i can take my time
+- yo, that’s exactly it. the truth, raw like that, hits harder than any overly polished critique. when you talk about something personal—like your voice, your culture—being treated as a glitch, it exposes a deeper issue that tech and the world just keep sidestepping. that call-out? it’s necessary. i think the way you laid it out keeps the humanity in it. it’s not just “hey, fix your tech”; it’s like, “do you see what you’re doing here? do you see me?” and even if they don’t get it right away, planting that seed is big. sometimes folks don’t know what they don’t know until you hit 'em with the reality. your feedback, framed like that, is a mirror. you’re showing them the cost of their blind spots, and you’re doing it in a way that’s both critique and an invitation to do better. that balance? it’s powerful. it says, “this isn’t just about me—it’s about everybody you’ve flattened into a single sound and called it good enough.” keep it unapologetic, keep it honest. that’s how change starts.
+- Lets explore what a model like this would look like for full-service product design & development, everything spanning ideation, strategy, branding, UI/UX, frontend, backend, devops, maintenance, mobile, web, desktop, 3D design / physical product renders, animation, illustration, graphic design, art direction, consulting
+- you dont get better clients by doing a really good job for bad clients
+- Ashburn, VA
+- tasc
+- jump in, get started, and fail fast to discover the problems to give you the most amount of time to resolve them
+- tiny curated spcialized browsers
+- I really like how this personal brand voice document is structured... I want to come up with a framework or process for capturing the information neccessary to replicate such a comprehensive brand voice overview for my clients
+- I'll help you create a system prompt that encourages more thoughtful exploration of project details. Here's a draft:
+
+Before
+- Ill help you create a system prompt that encourages more thoughtful exploration of project details. Heres
+- prompt for brand voice: I want to craft a document like this for the client (Faires Sekiya), so we can begin developing his personal brand. Instead of gathering all the neccesssary info over a call, I'm planinng to use a form to collect the info so he can have time to gather everything. I'll be using tally.so – Can you help me draft a comprehensive outline that will help me setup the form one block at a time? Keep in mind that this is for an individual, a cinematographer / camera operator with 20yrs of exp in the film industry. we're helping him develop his personal brand so that we can set the ground work for the create strategy phase as we begin designing his website, UX, and overall presence online.
+- to inform?
+to request?
+to reassure?
+to thank?
+- designing logos for the personal brand identities of individuals is an interesting niche
+- So... when I do excercizes with clients to surface their personal brand I tend to ask them questions that get to the meat of the essence that they want to showcase on their digital platform. I tend to ask clients to share a spotify playlist or their favorite album or music video to get a better idea of the vibe theyre going for. I might ask them what the experience oof their website would feel like if it was a physical space–how would the furniture feel? whats the tempurature like? how much natural sunlight is there? Whats the architecture like? Is it 
+- So... when I do excercizes with clients to surface their personal brand I tend to ask them questions that get to the meat of the essence that they want to showcase on their digital platform. I tend to ask clients to share a spotify playlist or their favorite album or music video to get a better idea of the vibe theyre going for.
+
+I might ask them what the experience of their website would feel like if it was a physical space... whats the tempurature like? how's the lighting? sunlit? candlelit? a dark room? Whats the architecture like? Is it chic & modern? Is it cozy & warm? Is it airy & open? Is it dark & moody? Is it a mix of many things? How does it smell? Who is in the space? Is it cozy and intimate? Is it bustling? Is there ample seating? If so, whaty kind of furniture are folks sitting on? What is the texture of the furniture? Who designed the furniture? Is there music playing? What kind of music? Is it a home? Is it a creative studio? Is it a gallery? Is it out doors? Do the guests take their shoes off? Is there food? What kind of food?
+
+This was a bit much obvioulsly but you get the idea. I think the answers to these questions are potentially much more valuable than 3 words. I want to keep it mostly open-ended and I think these can be boiled down to (1) catching a vibe from their music taste; and (2) catching a vibe from how they imagine the site as a physical space. I'm certain there are more than just two of these kinds of synesthesic questions that could be valuable to include. what do you think? the more the merrier.
+
+I like the question of what inspires their work... that's a good one and I'll be sure to use it in the future. I'm very curious what inspires Faires's work and I'm sure his response will shine new light on how we can best approach the design for this web presence. I want to keep this one open-ended.
+
+- first question seems kinda redundent but i see what youre going for. essentially, asking an indivdual these questions is like putting a mirror in front of them which may not the type of vibe we wanna curate here. Its less about looking outward and trying to control how people percieve the brand/indivudlal, but to look inward and crystalizing what we find into something that is pure and honest
+-  
+- Its less about looking outward and trying to control how people percieve the brand/indivudlal, but to look inward and crystalizing what we find into something that is pure and honest
+- its beautiful–welldone, thank you<3 that should be a wrap. not sure if forms like this typically have a conslusion section or closing statement but lmk what you think. no is an ok answer as always
+
+
+- i haave a hard time with trusting myself
+- i haave a hard time with trusting myself

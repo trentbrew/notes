@@ -9,6 +9,5 @@
     "**/Thumbs.db": true,
     ".vscode": true
   },
-  "hide-files.files": [".flat"],
-  "workbench.colorTheme": "Dark Horizon"
+  "hide-files.files": []
 }

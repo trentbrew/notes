@@ -1,8 +1,3 @@
-Hey [Name], apologies for messaging so late in the evening. Just wanted to quickly drop the updated Seed Project assets. The roots have been trimmed to more closely match the tree branches, vertical symmetry has been improved, and the 3 icons have been vectorized. I'm also experimenting with some animation for these + the other icons. I've attached a (very) rough sketch of how the tree might feel in motion and would love to hear your thoughts.
-Definitely wanted to get this to you right away, but let me know how I can best be involved in tomorrow's call and if there's anything I should prep to show/dsicuss. Looking forward to it!
-
----
-
 Thanks, [Name]. I sent you an email connecting you to Rebecca, per her request. She'll likely want to arrange for a sync for a couple of hour to hack at some of the web stuff. If you need access to it all, just ask her and she'll provide.
 Please keep me looped in on the thread so I can support as needed, and keep track of your hours for this work, as we have a certain number of hours saved for this technical assistance.
 Let me know if you have any questions!
